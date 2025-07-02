@@ -1,0 +1,1 @@
+/var/www/html/magento246/vendor/magento/module-gift-message/view/frontend/web/js/model/url-builder.js

@@ -1,0 +1,1 @@
+/var/www/html/magento246/vendor/magento/module-newsletter/view/frontend/web/js/newsletter-sign-up.js
