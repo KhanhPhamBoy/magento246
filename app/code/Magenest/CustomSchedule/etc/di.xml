@@ -1,0 +1,9 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\AdvancedPricing">
+        <plugin name="custom_advanced_pricing_modifier" type="Magenest\CustomSchedule\Plugin\Ui\DataProvider\Product\Form\Modifier\AdvancedPricingModifierPlugin" />
+    </type>
+<!--    <type name="Magento\Catalog\Pricing\Price\SpecialPrice">-->
+<!--        <plugin name="magenest_special_price_around_plugin" type="Magenest\CustomSchedule\Plugin\Pricing\Price\SpecialPricePlugin"/>-->
+<!--    </type>-->
+</config>
