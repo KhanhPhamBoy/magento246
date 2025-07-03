@@ -1,1 +1,0 @@
-/var/www/html/magento246/lib/web/mage/adminhtml/globals.js
