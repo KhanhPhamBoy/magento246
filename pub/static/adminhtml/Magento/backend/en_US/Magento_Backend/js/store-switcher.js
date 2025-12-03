@@ -1,1 +1,0 @@
-/var/www/html/magento246/vendor/magento/module-backend/view/adminhtml/web/js/store-switcher.js

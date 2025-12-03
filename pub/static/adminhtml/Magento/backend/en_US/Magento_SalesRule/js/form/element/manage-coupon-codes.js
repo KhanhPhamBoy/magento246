@@ -1,1 +1,0 @@
-/var/www/html/magento246/vendor/magento/module-sales-rule/view/base/web/js/form/element/manage-coupon-codes.js
