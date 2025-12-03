@@ -86,3 +86,5 @@ atlassian*
 package-lock.json
 *.sample
 
+/pub/*
+!/pub/media
